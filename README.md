@@ -1,8 +1,8 @@
 <!-- Intent: GitHub profile README. Copy into a repo named exactly like your username (hh2891 is the Stowers username; use your GitHub username) and it appears on your profile. -->
 
-# Hi, I'm Helen 👋
+# Hi, I'm Helen 
 
-I'm a PhD-trained **genomics data scientist and biochemist**, and a **full-stack biologist**: I work from the bench (sample prep, assay design, library construction) through to the analysis (pipelines, statistics, visualization). I like owning the whole path from tube to figure, because the best computational choices are informed by what happened in the wet lab, and the best wet-lab choices are informed by what the data later show.
+I'm PhD-trained in **genomics data science / biochemistry**. I consider myself a **'full-stack biologist'**: I work from the bench (sample prep, assay design, library construction) through to the analysis (pipelines, statistics, visualization). I like owning the whole path from tube to figure, because the best computational choices are informed by what happened in the wet lab, and the best wet-lab choices are informed by what the data later show.
 
 ## What I care about
 
